@@ -4,10 +4,10 @@
 QA ENGINEER | AUTOMATION | PERFORMANCE | REST API
 
 ## EDUCATION
-**B.E (INFORMATION SCIENCE & TECHNOLOGY)
+B.E (INFORMATION SCIENCE & TECHNOLOGY)
 
 ### WORK EXPERIENCE
-**Senior Principal Software Engineer - Quality Assurance @ AccionLabs India Private Limited
+Senior Principal Software Engineer - Quality Assurance @ AccionLabs India Private Limited
 Aug 2019 - Present
 
 #### SOFTWARE TEST ENGINEER
