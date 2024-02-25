@@ -1,48 +1,33 @@
-**PRABHAKAR Y**
+#PRABHAKAR Y
+###QA ENGINEER | AUTOMATION | PERFORMANCE | REST API
 
-**QA ENGINEER | AUTOMATION | PERFORMANCE | REST API** 
-
-**CONTACT**
-
-[P: +91-8073929738](http://prabhakar.351990@gmail.com/)
-
-[E: prabhakar.351990@gmail.com ](http://prabhakar.351990@gmail.com/)
-
-**EDUCATION WORK EXPERIENCE**
-
+##EDUCATION 
 B.E (Information Science & Technology) 
 
-**Senior Principal Software Engineer - Quality Assurance**
+##WORK EXPERIENCE
+**Senior Principal Software Engineer, Quality Assurance @ AccionLabs India Private Limited, (_Aug 2019 - Present_)**
+**SOFTWARE TEST ENGINEER @ Citrix R&D India Pvt Ltd,(_Jan 2016 – July 2019_)**
+**SENIOR SOFTWARE TEST ENGINEER @ Endeavour Software Technologies,(_Nov-2014 to Dec 2015_)**
+**SOFTWARE TEST ENGINEER @ i-ADMIN Outsourcing Pvt Ltd,(_2012 to Nov2014_)**
 
-*AccionLabs India Private Limited* **TOOLS & TECHNOLOGY** *Aug 2019 - Present*
 
-- Web Automation | Selenium, Cypress **SOFTWARE TEST ENGINEER**
-- Mobile Automation | UI Automator, Appium *Citrix R&D India Pvt Ltd* 
-  - API Automation | Postman, RestAssured *Jan 2016 – July 2019* 
-  - Performance | Jmeter, VSTS, BlazeMeter, New
+##TOOLS & TECHNOLOGY
+- Web Automation | Selenium, Cypress 
+- Mobile Automation | UI Automator, Appium 
+- API Automation | Postman, RestAssured 
+- Performance | Jmeter, VSTS, BlazeMeter, New Relic, TSUNG
+- Debugging & Network Packet Analyser | Wireshark,Charles tool
+- Test  Management  tools  |  Jira,  Bugzilla,  Slack, Mantis
+- Test Case Management tools | Zephyr, Jira Build
+- Tools | Ant, Maven, Jenkin, Gitlab
+- Scripting | Core Java | Javascript | Python
+- IDE | Eclipse, IntelliJ,Xcode
+- Operating System | Mac OS, Windows
 
-**SENIOR SOFTWARE TEST ENGINEER**
 
-Relic, TSUNG 
 
-Debugging & Network Packet Analyser | *Endeavour Software Technologies*
-
-Wireshark ,Charles  *Nov-2014 to Dec 2015*
-
-Test  Management  tools  |  Jira,  Bugzilla,  Slack,![ref1]
-
-**SOFTWARE TEST ENGINEER**
-
-Mantis 
-
-Test Case Management tools | Zephyr, Jira Build *i-ADMIN Outsourcing Pvt Ltd Sept -![ref1]*
-
-- Tools | Ant, Maven, Jenkin, Gitlab *2012 to Nov - 2014*
-  - Scripting | Core Java | Javascript | Python
-  - IDE | Eclipse, IntelliJ,Xcode 
-  - Operating System | Mac OS, Windows **SKILLS HIGHLIGHTS**
-
-    Frameworks | Data Driven, POM, TestNG
+##SKILLS HIGHLIGHTS
+Frameworks | Data Driven, POM, TestNG
 
 Having **10+** years of experience in Testing Web & Mobile based Applications on Android & iOS & Web browsers
 
@@ -148,6 +133,13 @@ Residential address:  Flat No. K-1703
                          Salarpuria Sattva East Crest
                          Old Madras Rd, near Budigere Cross, Konadasapura
                          Bengaluru, Karnataka 560049
+
+**CONTACT**
+
+[P: +91-8073929738](http://prabhakar.351990@gmail.com/)
+
+[E: prabhakar.351990@gmail.com ](http://prabhakar.351990@gmail.com/)
+
 
 **Declaration:**
 
