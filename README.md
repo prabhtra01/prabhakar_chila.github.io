@@ -16,9 +16,9 @@
 
 
 ## TOOLS & TECHNOLOGY
-Web Automation | Selenium, Playwright 
-Mobile Automation | UI Automator, Appium 
-API Automation | Postman, RestAssured 
+-- Web Automation | Selenium, Playwright 
+-- Mobile Automation | UI Automator, Appium 
+-- API Automation | Postman, RestAssured 
 Performance | Jmeter, VSTS, BlazeMeter, New Relic, TSUNG
 Debugging & Network Packet Analyser | Wireshark, Charles tool
 Test  Management  tools  |  Jira,  Bugzilla,  Slack, Mantis
