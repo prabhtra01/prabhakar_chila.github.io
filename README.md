@@ -16,17 +16,17 @@
 
 
 ## TOOLS & TECHNOLOGY
--- Web Automation | Selenium, Playwright 
--- Mobile Automation | UI Automator, Appium 
--- API Automation | Postman, RestAssured 
-Performance | Jmeter, VSTS, BlazeMeter, New Relic, TSUNG
-Debugging & Network Packet Analyser | Wireshark, Charles tool
-Test  Management  tools  |  Jira,  Bugzilla,  Slack, Mantis
-Test Case Management tools | Zephyr, Jira Build
-Tools | Ant, Maven, Jenkin, Gitlab
-Scripting | Core Java | Javascript | Python
-IDE | Eclipse, IntelliJ,Xcode
-Operating System | Mac OS, Windows
+- Web Automation | Selenium, Playwright 
+- Mobile Automation | UI Automator, Appium 
+- API Automation | Postman, RestAssured 
+- Performance | Jmeter, VSTS, BlazeMeter, New Relic, TSUNG
+- Debugging & Network Packet Analyser | Wireshark, Charles tool
+- Test  Management  tools  |  Jira,  Bugzilla,  Slack, Mantis
+- Test Case Management tools | Zephyr, Jira Build
+- Tools | Ant, Maven, Jenkin, Gitlab
+- Scripting | Core Java | Javascript | Python
+- IDE | Eclipse, IntelliJ,Xcode
+- Operating System | Mac OS, Windows
 
 
 
