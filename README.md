@@ -7,8 +7,11 @@
 
 ## WORK EXPERIENCE
 **Senior Principal Software Engineer, Quality Assurance @ AccionLabs India Private Limited, (_Aug 2019 - Present_)**
+
 **SOFTWARE TEST ENGINEER @ Citrix R&D India Pvt Ltd,(_Jan 2016 – July 2019_)**
+
 **SENIOR SOFTWARE TEST ENGINEER @ Endeavour Software Technologies,(_Nov-2014 to Dec 2015_)**
+
 **SOFTWARE TEST ENGINEER @ i-ADMIN Outsourcing Pvt Ltd,(_2012 to Nov2014_)**
 
 
