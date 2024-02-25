@@ -16,7 +16,7 @@
 
 
 ## TOOLS & TECHNOLOGY
-- Web Automation | Selenium, Cypress 
+- Web Automation | Selenium, Playwright 
 - Mobile Automation | UI Automator, Appium 
 - API Automation | Postman, RestAssured 
 - Performance | Jmeter, VSTS, BlazeMeter, New Relic, TSUNG
