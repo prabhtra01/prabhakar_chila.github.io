@@ -27,17 +27,16 @@
 - Scripting | Core Java | Javascript | Python
 - IDE | Eclipse, IntelliJ,Xcode
 - Operating System | Mac OS, Windows
+- Frameworks | Data Driven, POM, TestNG
 
-
+## Web & Mobile OS PLATFORMS
+- Windows, macOS, Android & iOS
 
 ## SKILLS HIGHLIGHTS
-Frameworks | Data Driven, POM, TestNG
 
-Having **10+** years of experience in Testing Web & Mobile based Applications on Android & iOS & Web browsers
+Having **10+** years of experience in Testing Web & Mobile based Applications on Android & iOS & Web browsers on different O.S platforms and Good working knowledge of Windows, macOS, Android & iOS of MDM (BYOD), MAM
 
-**Web & Mobile OS PLATFORMS** on different O.S platforms and Good working knowledge of Windows, macOS, Android & iOS of MDM (BYOD), MAM
-
-Automation testing using Selenium, Appium, Cypress & Performance & load testing for Web & Mobile using
+Automation testing using Selenium, Appium, Playwright & Performance & load testing for Web & Mobile using
 
 **PERSONAL SKILLS**
 
