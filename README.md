@@ -36,11 +36,13 @@
 
 Having **10+** years of experience in Testing Web & Mobile based Applications on Android & iOS & Web browsers on different O.S platforms and Good working knowledge of Windows, macOS, Android & iOS of MDM (BYOD), MAM
 
-Automation testing using Selenium, Appium, Playwright & Performance & load testing for Web & Mobile using
+Automation testing using Selenium, Appium, and Playwright 
+Performance & load testing for Web & Mobile using Jmeter
+Performance tunning with client-side performance metrics
+REST API automation using RestAssured
 
 **PERSONAL SKILLS**
-
-Jmeter, REST API automation using RestAssured Reliable and Professional Organised! Performance tunning with client-side performance metrics
+Reliable and Professional Organised! 
 
 Time Management  & server side metrics
 
@@ -50,7 +52,6 @@ Quick Learner
 
 Self Motivated
 
-+91-8073929738 | prabhakar.351990@gmail.com
 
 **PROJECTS**
 
